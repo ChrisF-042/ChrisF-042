@@ -1,12 +1,17 @@
 ## 🚀 About Me
 
 I’m a software engineering graduate focused on building **full-stack applications that solve real-world problems**—from mobile apps to interactive web experiences.
+
+
+### 🔧 Featured Projects
 - 🔭 Recently built a **[Full-Stack Android Vacation Planner App](URL "https://github.com/ChrisF-042/vacation-planner-app-project")** featuring local data persistence and CSV export
 - 🌍 Created  **[Earth-Sandwich:](URL "(https://github.com/ChrisF-042/earth-sandwich)")**  an interactive 3D Earth visualization app that calculates antipodal locations in real time using WebGL
+
 
 ## 💻 Tech Stack
 
 Java • JavaScript • Python • SQL • React • Spring Boot • AWS • Docker  
+
 
 ## 👨‍🍳 Background
 
@@ -16,6 +21,7 @@ Before tech, I spent 6 years as a chef, where I learned how to:
 - and iterate fast  
 
 That experience carries directly into how I build software.
+
 
 ## 📫 Connect with Me
 

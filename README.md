@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
 I’m a software engineering graduate focused on building **full-stack applications that solve real-world problems**—from mobile apps to interactive web experiences.
-- 🔭 Recently built a **[Full Stack Android Vacation Planner App](URL "https://github.com/ChrisF-042/vacation-planner-app-project")** with local data persistence and CSV export
-- 🌍 Created  **[Earth-Sandwich: and interactive 3D Earth visualization app](URL "(https://github.com/ChrisF-042/earth-sandwich)")** that calculates antipodal locations in real time using WebGL
+- 🔭 Recently built a **[Full-Stack Android Vacation Planner App](URL "https://github.com/ChrisF-042/vacation-planner-app-project")** featuring local data persistence and CSV export
+- 🌍 Created  **[Earth-Sandwich:](URL "(https://github.com/ChrisF-042/earth-sandwich)")**  an interactive 3D Earth visualization app that calculates antipodal locations in real time using WebGL
 
 ## 💻 Tech Stack
 
@@ -15,7 +15,7 @@ Before tech, I spent 6 years as a chef, where I learned how to:
 - build efficient systems  
 - and iterate fast  
 
-That mindset carries directly into how I build software.
+That experience carries directly into how I build software.
 
 ## 📫 Connect with Me
 
